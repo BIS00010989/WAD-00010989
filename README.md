@@ -1,1 +1,2 @@
-# WAD-00010989
+This work belongs to a student with the ID: 00010989. GitHub Repository was created for the successful completion of the course work on the subject: Web Applications Development. All further work will be done independently by the student himself in compliance with all the rules and requirements regarding the course work. Deadline of this component is 31/01/2023.
+	Link to the  GitHub Repository: https://github.com/JSDeveloper545/WAD-00010989.git
